@@ -2,6 +2,8 @@
 
 Load password protected content over ajax.
 
+![screengrab](screengrab.gif)
+
 # Installation
 
 ## 1. wp-cli
